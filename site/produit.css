@@ -1,0 +1,47 @@
+
+.col-2 .btn{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #16a7b4;
+    color: #555;
+    border-radius: 30px;
+    margin-top: 25px;
+    transition: background 0.5s;
+}
+
+.col-2 .btn:hover{
+    background: #106e77;
+}
+
+p h4{
+    color: #555;
+}
+
+.single-product{
+    margin-top: 80px;
+    
+}
+
+.single-product .col-2 img{
+    padding: 0;
+   
+}
+
+.single-product .col-2{
+    padding: 20px;
+    
+}
+
+.single-product h4{
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+
+.single-product select{
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+}

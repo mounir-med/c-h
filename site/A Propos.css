@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    background: radial-gradient(#fff, #eaf2fb);
+}
+
+.container img{
+    width: 125px;
+    
+}
